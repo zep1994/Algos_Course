@@ -1,0 +1,8 @@
+which approach is the best? 
+
+One solution might be good for one things and not so good at another, so there are trade offs to patterns that are chosen.
+
+What are the patterns?
+
+Big O Notation can help debug
+
