@@ -6,3 +6,21 @@ What are the patterns?
 
 Big O Notation can help debug
 
+what is a logrithm?
+log^2(8)=3 2^3=8
+
+log^2(value)=value 2^exponent=value
+
+Certain searching algorithms have logorithmic time complexity 
+Effectient Sorting algos 
+Recursion 
+
+
+DEVISE A PLAN TO SOLVING PROBLEMS 
+The Algorithm that defines a process or method
+Set of Steps 
+
+How to improve Algorithm Problem SOLVING
+1. Devise a plan
+2. Master the patterns 
+
