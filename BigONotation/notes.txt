@@ -24,3 +24,8 @@ How to improve Algorithm Problem SOLVING
 1. Devise a plan
 2. Master the patterns 
 
+Understand the problem 
+Explore concrete examples 
+Break it down 
+Solve 
+refactor
